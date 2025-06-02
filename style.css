@@ -4,11 +4,11 @@
     }
     @font-face {
         font-family: "Roboto";
-        src: url('font/Roboto-Regular.ttf');
+        src: url('/font/Roboto-Regular.ttf');
     }
     body{
         font-family: "Roboto";
-        background-image: url("imagens/background/playstation.jpg");
+        background-image: url("/imagens/background/playstation.jpg");
         background-color: rgb(10, 90, 161);
         background-size: cover;
         background-position: center;

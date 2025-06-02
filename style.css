@@ -8,13 +8,11 @@
     }
     body{
         font-family: "Roboto";
-        /* background-color: rgb(244, 228, 240); */
-        background-image: url("imagens/background/playstation.jpg");
+        background-image: url("/imagens/background/playstation.jpg");
         background-size: cover;
         background-position: center;
         height: 100vh;
         background-repeat: no-repeat;
-        /* background-color: rgb(10, 90, 161); */
         background-attachment: fixed;
     }
     .container {
